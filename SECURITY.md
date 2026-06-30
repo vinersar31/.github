@@ -25,7 +25,7 @@ Instead, report them privately using one of the following channels:
    **Security** tab and click **Report a vulnerability**. See
    [Privately reporting a security vulnerability](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)
    for details.
-2. **Email**: send details to **[INSERT SECURITY CONTACT EMAIL]**.
+2. **Email**: send details to **danvinersar98@gmail.com**.
 
 Please include as much of the following as possible to help us triage quickly:
 
