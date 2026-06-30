@@ -1,0 +1,21 @@
+# Default funding configuration for all repositories owned by @vinersar31.
+# A repository can override this by providing its own .github/FUNDING.yml.
+# Uncomment and fill in the platforms you actually use. Remove the rest.
+# Docs: https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+# GitHub Sponsors (up to 4 usernames)
+github: [vinersar31]
+
+# Other supported platforms (replace the placeholder with your username/handle):
+# patreon: # Patreon username
+# open_collective: # Open Collective username
+# ko_fi: # Ko-fi username
+# tidelift: # platform-name/package-name
+# community_bridge: # CommunityBridge project name
+# liberapay: # Liberapay username
+# issuehunt: # IssueHunt username
+# lfx_crowdfunding: # LFX Crowdfunding project name
+# polar: # Polar username
+# buy_me_a_coffee: # Buy Me a Coffee username
+# thanks_dev: # thanks.dev username
+# custom: # ["https://example.com/donate"]
